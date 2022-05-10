@@ -31,6 +31,10 @@ The month of June and December tempeature statistics:
 
 The analysis supports that weather for Oahu, Haiwaii is likely to remain warm and sunny the majority of the year, providing favorable conditions year-round for the proposed surf'n'shake shop.
 
-For June and December the average temperature trend is 71-74 degrees with low chance of precipitation, very favorable for a surf and ice cream shop. Additional suggested queries to gather further weather data is a precipitation query for each of the months. The precipitation query for June compiles data from 2010 to 2016 with an average precipitation of less than half an inch. A similar precipitation query for December from 2010 to 2016 returns a similar average precipitation observation.
+For June and December the average temperature trend is 71-74 degrees with low chance of precipitation, very favorable for a surf and ice cream shop. Additional suggested queries to gather further weather data is a precipitation query for each of the months. The precipitation query for June compiles data from 2010 to 2016 with an average precipitation of less than half an inch. A similar precipitation query for December from 2010 to 2016 returns a similar observation.
 
 ![image](https://github.com/courtneysims/Surfs_up/blob/ebbb164d1f0edb8ab5f8b12174b7e1ba9366ee20/Resources/June_precip.PNG)  ![image](https://github.com/courtneysims/Surfs_up/blob/ebbb164d1f0edb8ab5f8b12174b7e1ba9366ee20/Resources/Dec_precip.PNG)
+
+Additionally, the analysis can be expanded to include March and September temperature data to provide a larger climate trend, looking at months that are closer to the transition of seasons. Queries for these months equally support warm and sunny weather trends for Oahu.
+
+![image](https://github.com/courtneysims/Surfs_up/blob/f4bf28433b880f9301d18945cd2ce873b4a7f3a3/Resources/march_temp.PNG)   ![image](https://github.com/courtneysims/Surfs_up/blob/f4bf28433b880f9301d18945cd2ce873b4a7f3a3/Resources/Sept_temp.PNG)
