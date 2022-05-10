@@ -11,11 +11,11 @@ A weather analysis for the year from August 2016 to August 2017 includes data fo
 
 The month of June temperature statistics: 
 
-![image](https://github.com/courtneysims/Surfs_up/blob/3a9335c337ed1ce738cded9ab5882acec6db718a/Resources/June_temp_stat.PNG)
+![image]()
 
 The month of December temperature statistics:
 
-![image](https://github.com/courtneysims/Surfs_up/blob/3a9335c337ed1ce738cded9ab5882acec6db718a/Resources/Dec_temp_stat.PNG)
+![image]()
 
 - The temperature does not show significant fluncuations for either June or December.
 
